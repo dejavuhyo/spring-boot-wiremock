@@ -78,3 +78,18 @@ This is a standalone server response!
 	"updateDate": "2025-12-18T06:59:43Z"
 }
 ```
+
+### 4) Error 호출
+
+* URL: `http://localhost:9091/api/guitars/error`
+
+* Method: `GET`
+
+* Response
+
+```json
+{
+	"error": "Service unavailable",
+	"message": "Service is currently unavailable"
+}
+```
