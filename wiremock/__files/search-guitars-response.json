@@ -1,0 +1,21 @@
+{
+  "guitars": [
+    {
+      "name": "Fender",
+      "brand": "펜더",
+      "updateDate": "{{now}}"
+    },
+    {
+      "name": "Gibson",
+      "brand": "깁슨",
+      "updateDate": "{{now}}"
+    },
+    {
+      "name": "PRS",
+      "brand": "폴 리드 스미스",
+      "updateDate": "{{now}}"
+    }
+  ],
+  "totalCount": 3,
+  "timestamp": "{{now}}"
+}

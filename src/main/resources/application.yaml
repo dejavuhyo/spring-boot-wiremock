@@ -1,0 +1,15 @@
+spring:
+  application:
+  name: wiremock
+
+server:
+  port: 8081
+
+wiremock:
+  port: 9091
+  files-directory: wiremock
+
+logging:
+  level:
+    com.example.wiremock: INFO
+    com.github.tomakehurst: INFO

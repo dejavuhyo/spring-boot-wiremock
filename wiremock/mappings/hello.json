@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/api/standalone"
+  },
+  "response": {
+    "status": 200,
+    "body": "This is a standalone server response!",
+    "headers": {
+      "Content-Type": "text/plain"
+    }
+  }
+}

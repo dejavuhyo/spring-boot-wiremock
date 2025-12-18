@@ -1,0 +1,5 @@
+{
+  "name": "{{request.query.name}}",
+  "status": "active",
+  "updateDate": "{{now}}"
+}
