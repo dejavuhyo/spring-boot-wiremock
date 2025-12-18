@@ -1,4 +1,4 @@
-# spring-boot-wiremock
+# Spring Boot WireMock
 
 ## 1. 설명
 Spring Boot에서 WireMock을 이용한 Mock API Server 예제이다. 포트는 8081을 사용하고, WireMock은 9091 포트를 사용한다.
