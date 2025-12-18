@@ -1,0 +1,16 @@
+{
+  "request": {
+    "method": "GET",
+    "urlPath": "/api/guitars/error"
+  },
+  "response": {
+    "status": 503,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "jsonBody" : {
+      "error" : "Service unavailable",
+      "message" : "Service is currently unavailable"
+    }
+  }
+}
